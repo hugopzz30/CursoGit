@@ -8,4 +8,7 @@
 - git diff nombreArchivo (Cambios en el codigo)
 - git log --oneline (Muestra versiones anteriores del codigo/archivo)
 - git restore --source claveVersion nombreArchivo
-
+- git branch (Ramas que existen)
+- git checkout -b nombreRama (Crear una nueva rama)
+- git switch nombreRama (Cambiar de Rama)
+- git push origin nombreRama (Para hacer cambios en una rama diferente)
