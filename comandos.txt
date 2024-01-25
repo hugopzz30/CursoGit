@@ -1,6 +1,11 @@
+- git log (historial commits)
 - code .
 - git pull
 - git status
 - git add . 
 - git commit -m "comentario"
 - git push
+- git diff nombreArchivo (Cambios en el codigo)
+- git log --oneline (Muestra versiones anteriores del codigo/archivo)
+- git restore --source claveVersion nombreArchivo
+
