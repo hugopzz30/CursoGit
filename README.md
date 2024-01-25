@@ -5,3 +5,7 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm install react``` 
+
+``Para abrir editor de codigo de VSC pulsa (.)``
+
+```Para crear un documeto html, solo coloca un signo de interrogacion + tab```
