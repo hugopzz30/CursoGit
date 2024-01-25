@@ -15,3 +15,9 @@
 - git merge nombreRama (Mezclar dos ramas) [Si abre terminal debes (press i - 
 escribir mensaje - press esc - escribir wq - press enter) (Para completar el
 proceso usa git push origin ramaOrigen)
+- git init (Inicializar un proyecto) (Usando una nueva carpeta)
+- git remote add origin URL (Conectar un nuevo proyecto con un repositorio)
+- git remote -v (Muestra conexion con repositorio)
+- git branch -M main (Establecemos la rama main como la rama principal)
+- git push -u origin main (Cuando la rama principal es main, usamos este comando 
+para commitar ya desde la rama main)
