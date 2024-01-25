@@ -1,13 +1,19 @@
+- git config --global user.name "nombre" (Configurar nuestro nombre)
+- git config --global user.email "email" (Configurar email)
+- git config --list (Comprobar configuraciones)
+- git clone URL (Clonar un repositorio) - git init (Crear un repositorio desde
+ terminal)
 - git log (historial commits)
 - code .
 - git pull
 - git status
-- git add . 
+- git add . (Agregar archivos)
 - git commit -m "comentario"
 - git push
 - git diff nombreArchivo (Cambios en el codigo)
 - git log --oneline (Muestra versiones anteriores del codigo/archivo)
-- git restore --source claveVersion nombreArchivo
+- git restore --source claveVersion nombreArchivo (Volver al estado de una version
+anterior en el codigo)
 - git branch (Ramas que existen)
 - git checkout -b nombreRama (Crear una nueva rama)
 - git switch nombreRama (Cambiar de Rama)
