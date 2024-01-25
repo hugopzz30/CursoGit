@@ -12,3 +12,6 @@
 - git checkout -b nombreRama (Crear una nueva rama)
 - git switch nombreRama (Cambiar de Rama)
 - git push origin nombreRama (Para hacer cambios en una rama diferente)
+- git merge nombreRama (Mezclar dos ramas) [Si abre terminal debes (press i - 
+escribir mensaje - press esc - escribir wq - press enter) (Para completar el
+proceso usa git push origin ramaOrigen)
